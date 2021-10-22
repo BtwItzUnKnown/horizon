@@ -1,0 +1,48 @@
+{
+    "token": "ODk5Njk1Mjk4MDEwNTUwMjkz.YW2gig.x9MIkghyGfm7KGcmP46sSjSM8cw",
+    "prefix": "-",
+
+	  "ksoftapi": "AIzaSyAAg3GHxipuyDz7KsCAv434yoFT56TR9LQ",   
+
+    "ownerID": [ "849226137006637057", "701003468445319228" ],
+
+    "SpotifyID": "09c93e5a93b546ea9c2ff08d07c16440",
+
+    "SpotifySecret": "4f5a6450ae3c48ed8c289897d265486c",
+
+    "mongourl": "mongodb+srv://Musical:musical123@musical.ogpta.mongodb.net/Musical",
+
+    "embedColor": "#FF0000",
+
+    "jlogs": "899704185094803486",
+
+     "llogs": "899704258348322906",
+
+  "nodes": [
+
+    
+
+    {
+
+     
+
+      "host": "disbotlistlavalink.ml",
+
+      "port": 443,
+
+      "password": "LAVA",
+
+      "identifier": "Horizon Lavalink",
+
+      "retryDelay": 3000,
+
+      "secure": true
+
+    
+
+    }
+
+  ]
+
+}
+
